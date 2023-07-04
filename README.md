@@ -29,4 +29,6 @@
   </br>
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gudwns0318)](https://solved.ac/gudwns0318/)
-</div>
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yhj0318&layout=compact&theme=shadow_blue)
+  </div>
