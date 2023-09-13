@@ -30,5 +30,5 @@
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gudwns0318)](https://solved.ac/gudwns0318/)
 
-  <img alt="top-languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yhj0318&langs_count=8&layout=compact&thema=transparent">
+  <img alt="top-languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yhj0318&langs_count=8&layout=compact&thema=transparent&size_weight=0.1&count_weight=0.9">
   </div>
